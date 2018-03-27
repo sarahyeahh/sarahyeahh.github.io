@@ -473,7 +473,7 @@ mark {
 }
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
-  margin-left: 7%;
+ /*  margin-left: 7%; */
 }
 .portfolio-modal .close-modal {
   position: absolute;
